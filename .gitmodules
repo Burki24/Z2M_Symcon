@@ -1,0 +1,3 @@
+[submodule "StylePHP"]
+	path = StylePHP
+	url = https://github.com/symcon/StylePHP
