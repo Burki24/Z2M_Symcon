@@ -1,3 +1,6 @@
 [submodule "StylePHP"]
 	path = StylePHP
 	url = https://github.com/symcon/StylePHP
+[submodule ".style"]
+	path = .style
+	url = https://github.com/Burki24/StylePHP/
