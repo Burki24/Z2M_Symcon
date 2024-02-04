@@ -5,7 +5,7 @@ require_once __DIR__ . '/../libs/MQTTHelper.php';
 
 class Zigbee2MQTTConfigurator extends IPSModule
 {
-    use \Z2M-Symcon\MQTTHelper;
+    use \Z2MSymcon\MQTTHelper;
 
     public function Create()
     {
