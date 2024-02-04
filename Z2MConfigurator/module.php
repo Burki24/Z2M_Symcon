@@ -5,7 +5,7 @@ require_once __DIR__ . '/../libs/MQTTHelper.php';
 
 class Z2MConfigurator extends IPSModule
 {
-    use \Z2M-Symcon\libs\MQTTHelper;
+    use \Symcon\libs\MQTTHelper;
 
     public function Create()
     {
