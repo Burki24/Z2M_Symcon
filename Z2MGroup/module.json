@@ -1,0 +1,14 @@
+{
+    "id": "{8ED7CD34-7937-58E8-4E63-856D4327CC33}",
+    "name": "Z2MGroup",
+    "type": 3,
+    "vendor": "Z2M",
+    "aliases": [
+        "Z2M Group"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ZSC",
+    "url": ""
+}

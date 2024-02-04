@@ -1,0 +1,14 @@
+{
+    "id": "{793699E1-C4C3-1B7F-ED24-B45478841F55}",
+    "name": "Z2MBridge",
+    "type": 3,
+    "vendor": "Z2M",
+    "aliases": [
+        "Z2M Bridge"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ZSB",
+    "url": ""
+}

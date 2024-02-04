@@ -1,0 +1,14 @@
+{
+    "id": "{F3840355-1AFD-B716-7547-61CA6D47377E}",
+    "name": "Z2MConfigurator",
+    "type": 4,
+    "vendor": "Z2M",
+    "aliases": [
+        "Z2M Configurator"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ZSC",
+    "url": ""
+}

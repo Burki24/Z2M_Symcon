@@ -1,0 +1,14 @@
+{
+    "id": "{CBE0D3B9-B44E-556D-8B18-02B6ABB98718}",
+    "name": "Z2MDevice",
+    "type": 3,
+    "vendor": "Zigbee",
+    "aliases": [
+        "Z2M Device"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ZSD",
+    "url": ""
+}
