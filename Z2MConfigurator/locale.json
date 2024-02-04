@@ -1,8 +1,32 @@
 {
     "translations": {
         "de": {
-            "Translation 1": "Übersetzung 1",
-            "Translation 2": "Übersetzung 2"
+            "Settings": "Einstellungen",
+            "Paring Mode:": "Paring Modus:",
+            "Activate Pairing Mode": "Aktiviere Paring Modus",
+            "Deactivate Pairing Mode": "Deaktiviere Paring Modus",
+            "Unknown": "Unbekannt",
+            "Paring active": "Paring aktiv",
+            "Paring inactive": "Paring inaktiv",
+            "Devices": "Geräte",
+            "Groups": "Gruppen",
+            "IEEE Address": "IEEE Adresse",
+            "Network Address": "Netzweradresse",
+            "Type": "Typ",
+            "Vendor": "Hersteller",
+            "Model": "Model",
+            "Description": "Beschreibung",
+            "Power Source": "Energiequelle",
+            "Supported": "Unterstützt",
+            "Battery": "Batterie",
+            "Mains (single phase)": "Netz (einphasig)",
+            "Please use this function with attention!": "Bitte benutzen Sie diese Funktion mit Aufmerksamkeit!",
+            "Read Variables": "Rufe Variablen ab",
+            "Categories": "Kategorien",
+            "Adopt categorigal hierarchy from Zigbee2MQTT 'friendly_name'": "Kategoriale Hierarchie von Zigbee2MQTT 'Friendly_Name' übernehmen",
+            "Category hierarchy": "Kategoriehierarchie",
+            "Device Name": "Gerätename",
+            "Adopts the hierarchical structure from Zigbee2MQTT and converts it into a Symcon compatible category hierarchy if this is defined in the friendly_name. E.g. room/trade/location/device name. The device name is the one used to name the instance. The individual categories must be separated by a /.": "Übernimmt den hierarchischen Aufbau aus Zigbee2MQTT und wandelt es in eine Symcon kompatible Kategorien-Hierarchie, wenn diese im friendly_name definiert ist. Z.B. Raum/Gewerk/standort/Gerätename. Dabei ist der Gerätename der , der zur Benennung der Instanz genutzt wird. Die einzelnen Kategorien müssen durch ein / getrennt sein."
         }
     }
 }
